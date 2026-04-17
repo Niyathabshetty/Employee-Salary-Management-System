@@ -33,7 +33,7 @@ Develop a Java-based system to calculate employee salary based on role and atten
 
 ---
 
-## 📸 Output Screenshots
+##  Output Screenshots
 
 <div align="center">
 
